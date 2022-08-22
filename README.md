@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Java projects.
-- 📫 How to reach me
+- 📫 How to reach me 👇
 - ✨ Twitter https://twitter.com/scove_viber
 - 📇 Showwcase https://www.showwcase.com/shrinathpawar532
 <!---
