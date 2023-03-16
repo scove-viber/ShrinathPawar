@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrinathpawar&" alt="shrinathpawar" /></p>
 
-![](https://leetcard.jacoblin.cool/scove_viber?theme=light&font=Nosifer)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=scove_viber)](https://github.com/KnlnKS/leetcode-stats)
